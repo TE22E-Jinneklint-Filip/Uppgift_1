@@ -19,5 +19,6 @@ h1{
 
 h2{text-align: center;}
 
-.ner{margin-left: 25%;
+.ner{
+    margin-left: 300px;
 }
