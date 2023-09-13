@@ -1,0 +1,26 @@
+body{background-image:url(img/showcase.jpg);}
+
+h1{
+    font-family: "Roboto Mono", monospace ;
+    text-align: auto;
+    background-color: yellow;
+    color: blue;
+    border: 2px solid black;
+    text-align:center;
+}
+
+.div{
+    margin: 16px;
+    padding: 12px;
+
+    background-color: gray;
+    border: 3px solid black;
+}
+
+h2{text-align: center;}
+
+.ner{background-image: url(/img/logo-html-css-js.png);
+    height: 300px;
+    background-repeat: no-repeat;
+    margin-left: 33%;
+}
